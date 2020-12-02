@@ -3,16 +3,19 @@
 
 
 <p align='center'>
-Hi there 👋    
+Hi there 👋
+<br>
 My name is Kimnamsun, a growing Developer.
 </p>
 
 
 
-# 📚Technology Stack📚  
-![Generic badge](https://img.shields.io/badge/-JAVA-red) ![Generic badge](https://img.shields.io/badge/-Javascript-yellow) ![Generic badge](https://shields.io/badge/-HTML/CSS-ff69b4)   
-![Generic badge](https://img.shields.io/badge/-Oracle-327da8) ![Generic badge](https://img.shields.io/badge/-MySql-006F8C) ![Generic badge](https://img.shields.io/badge/-Spring-brightgreen)  ![Generic badge](https://img.shields.io/badge/-Git-black)   
-
+<p align='center'>
+<h4>📚Technology Stack📚</h4>
+<img src="https://img.shields.io/badge/-JAVA-red"/> <img src="https://img.shields.io/badge/-Javascript-yellow"/> <img src="https://shields.io/badge/-HTML/CSS-ff69b4"/>
+<br>
+<img src="https://img.shields.io/badge/-Oracle-327da8"/> <img src="https://img.shields.io/badge/-MySql-006F8C"/> <img src="https://img.shields.io/badge/-Spring-brightgreen"/>
+<img src="https://img.shields.io/badge/-Git-black"/>
 
 ---
 
