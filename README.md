@@ -4,7 +4,7 @@
 
 
 Hi there 👋   
-My name is Kimnamsun, a growing Developer.  </p>
+My name is Kimnamsun, a growing Developer.  
 
 
 # 📚Technology Stack📚  
