@@ -12,6 +12,7 @@ My name is Kimnamsun, a growing Developer.
 # 📚Technology Stack📚  
 ![Generic badge](https://img.shields.io/badge/-JAVA-red) ![Generic badge](https://img.shields.io/badge/-Javascript-yellow) ![Generic badge](https://shields.io/badge/-HTML/CSS-ff69b4)   
 ![Generic badge](https://img.shields.io/badge/-Oracle-327da8) ![Generic badge](https://img.shields.io/badge/-MySql-006F8C) ![Generic badge](https://img.shields.io/badge/-Spring-brightgreen)  ![Generic badge](https://img.shields.io/badge/-Git-black)   
+</p>
 
 ---
 
