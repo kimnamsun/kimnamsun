@@ -8,9 +8,12 @@ Hi there 👋
 My name is Kimnamsun, a growing Developer.
 </p>
 
+
+
 <h1 align='center'>
  📚Technology Stack📚 
 </h1>
+
 
 <p align='center'>
     <img src="https://img.shields.io/badge/-JAVA-red"/> <img src="https://img.shields.io/badge/-Javascript-yellow"/> <img src="https://shields.io/badge/-HTML/CSS-ff69b4"/>
@@ -19,7 +22,10 @@ My name is Kimnamsun, a growing Developer.
     <img src="https://img.shields.io/badge/-Git-black"/>
 </p>
 
+
 <hr>
+
+
 <p align='center'>
   <a href="https://velog.io/@nsunny0908">
     <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/>
