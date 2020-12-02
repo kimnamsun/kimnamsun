@@ -3,8 +3,9 @@
 
 
 <p align='center'>
-Hi there 👋   
-My name is Kimnamsun, a growing Developer.  <
+Hi there 👋    
+My name is Kimnamsun, a growing Developer.
+</p>
 
 
 # 📚Technology Stack📚  
