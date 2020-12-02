@@ -9,7 +9,7 @@ My name is Kimnamsun, a growing Developer.
 </p>
 
 <p align='center'>
-<h2> 📚Technology Stack📚 </h2>
+ 📚Technology Stack📚 
 </p>
 
 <p align='center'>
