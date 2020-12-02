@@ -8,7 +8,10 @@ Hi there 👋
 My name is Kimnamsun, a growing Developer.
 </p>
 
-# 📚Technology Stack📚
+<p align='center'>
+<h2> 📚Technology Stack📚 </h2>
+</p>
+
 <p align='center'>
     <img src="https://img.shields.io/badge/-JAVA-red"/> <img src="https://img.shields.io/badge/-Javascript-yellow"/> <img src="https://shields.io/badge/-HTML/CSS-ff69b4"/>
     <br>
