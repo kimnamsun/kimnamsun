@@ -2,9 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=kimnamsun();&fontSize=90)
 <br>
 <p align='center'>
-Hi there 👋
+Hi 👋
 <br>
-My name is Kimnamsun, a growing Developer.
+My name is Kimnamsun, a growing Web Developer.
 </p>
 <br>
 <h1 align='center'>
