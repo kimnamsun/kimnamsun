@@ -12,7 +12,7 @@ My name is Kimnamsun, a growing Developer.
 </h1>
 <br>
 <p align='center'>
-    <img src="https://img.shields.io/badge/-JAVA-red"/> <img src="https://img.shields.io/badge/-Javascript-yellow"/> <img src="https://img.shields.io/badge/-Spring-brightgreen"/> <img src="https://img.shields.io/badge/-React-skyblue"/>
+    <img src="https://img.shields.io/badge/-JAVA-red"/> <img src="https://img.shields.io/badge/-Javascript-yellow"/> <img src="https://img.shields.io/badge/-Spring-brightgreen"/> <img src="https://img.shields.io/badge/-React-3CAEA3"/>
     <br>
     <img src="https://shields.io/badge/-HTML/CSS-ff69b4"/> <img src="https://img.shields.io/badge/-Oracle-327da8"/> <img src="https://img.shields.io/badge/-MySql-006F8C"/> 
     <img src="https://img.shields.io/badge/-Git-black"/>
