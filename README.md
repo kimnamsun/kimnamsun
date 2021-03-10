@@ -4,7 +4,7 @@
 <p align='center'>
 Hi 👋
 <br>
-I'm Kimnamsun, Web Developer.
+I'm namsun Kim, Web Developer.
 </p>
 <br>
 <h1 align='center'>
