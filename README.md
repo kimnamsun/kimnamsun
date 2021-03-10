@@ -1,6 +1,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=kimnamsun();&fontSize=90)
 <br>
+<p align='center'>
+Hi 👋
+<br>
+My name is Kimnamsun, Web Developer.
+</p>
+<br>
 <h1 align='center'>
  📚Technology Stack📚 
 </h1>
