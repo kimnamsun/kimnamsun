@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/-Javascript-yellow"/> <img src="https://shields.io/badge/-HTML/CSS-ff69b4"/>
  <br>
  <img src="https://img.shields.io/badge/-JAVA-red"/> <img src="https://img.shields.io/badge/-Spring-brightgreen"/>
-<!--  <img src="https://img.shields.io/badge/-React-3CAEA3"/> -->
+ <img src="https://img.shields.io/badge/-React-3CAEA3"/>
     <br>
      <img src="https://img.shields.io/badge/-Oracle-327da8"/> <img src="https://img.shields.io/badge/-MySql-006F8C"/> 
     <img src="https://img.shields.io/badge/-Git-black"/>
