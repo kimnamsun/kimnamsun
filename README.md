@@ -5,16 +5,11 @@
 🌱 Frontend Developer
 </p>
 <br>
-<h1 align='center'>
- 📚Tech Stack📚 
-</h1>
-<br>
 <p align='center'>
     
  <br>
- <img src="https://img.shields.io/badge/-HTML/CSS-E44D26"/> <img src="https://img.shields.io/badge/-SASS-ff69b4" /> <img src="https://img.shields.io/badge/-JavaScript(ES6%2B)-F0DB4D"/> 
- <br>
- <img src="https://img.shields.io/badge/-React-3CAEA3"/> <img src="https://img.shields.io/badge/-JAVA-red" /> <img src="https://img.shields.io/badge/-Spring-yellowgreen" />
+ <img src="https://img.shields.io/badge/-HTML/CSS-E44D26"/> <img src="https://img.shields.io/badge/-SASS-ff69b4" /> <img src="https://img.shields.io/badge/-Styled Component-D76EC1" /> <br> <img src="https://img.shields.io/badge/-JavaScript(ES6%2B)-EFD81D"/> <img src="https://img.shields.io/badge/-TypeScript-3074C0"/> 
+ <img src="https://img.shields.io/badge/-React-3CAEA3"/> <br> <img src="https://img.shields.io/badge/-JAVA-red" /> <img src="https://img.shields.io/badge/-Spring-yellowgreen" />
     <br>
      <img src="https://img.shields.io/badge/-Oracle-327da8"/> <img src="https://img.shields.io/badge/-MySql-006F8C"/> 
     <img src="https://img.shields.io/badge/-Git-black"/>
