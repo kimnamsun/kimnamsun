@@ -1,6 +1,6 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=kimnamsun();&fontSize=90)
+![header](<https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=kimnamsun();&fontSize=90>)
 <br>
+
 <p align='center'>
 🌱 Frontend Developer
 </p>
@@ -23,7 +23,10 @@
     <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/>
   </a>
   <a href="http://kimnamsun.github.io/">
-    <img src="https://img.shields.io/badge/GitHub%20Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  </a>
+     <a href="www.linkedin.com/in/kimnamsun-740464214">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
   </a>
    <a href="https://www.notion.so/FrontEnd-Developer-2939767d9bc94e60a968f4108d52aa49">
     <img src="https://img.shields.io/badge/Resume-6E519D?style=flat-square&logo=Notion&logoColor=white"/>
@@ -32,4 +35,3 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
 </p>
-
