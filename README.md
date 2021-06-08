@@ -25,8 +25,11 @@
   <a href="http://kimnamsun.github.io/">
     <img src="https://img.shields.io/badge/GitHub%20Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   </a>
-<!--   <a href="https://www.notion.so/namsun-Kim-3e32988d63aa4845b131edb4fd522b6a">
-    <img src="https://img.shields.io/badge/portfolio-6E519D?style=flat-square&logo=Notion&logoColor=white"/>
-  </a> -->
+   <a href="https://www.notion.so/FrontEnd-Developer-2939767d9bc94e60a968f4108d52aa49">
+    <img src="https://img.shields.io/badge/Resume-6E519D?style=flat-square&logo=Notion&logoColor=white"/>
+  </a>
+     <a href="mailto:kimnsunnie@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
 </p>
 
