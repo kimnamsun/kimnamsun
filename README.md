@@ -2,7 +2,7 @@
 <br>
 
 <p align='center'>
-🌱 Frontend Developer
+👩🏻‍💻 Frontend Developer
 </p>
 <br>
 <p align='center'>
