@@ -25,7 +25,7 @@
   <a href="http://kimnamsun.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   </a>
-     <a href="www.linkedin.com/in/kimnamsun-740464214">
+     <a href="https://www.linkedin.com/in/kimnamsun-740464214">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
   </a>
    <a href="https://www.notion.so/FrontEnd-Developer-2939767d9bc94e60a968f4108d52aa49">
