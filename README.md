@@ -19,11 +19,8 @@
 <hr>
 <br>
 <p align='center'>
-  <a href="https://velog.io/@nsunny0908">
-    <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/>
-  </a>
   <a href="http://kimnamsun.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   </a>
      <a href="https://www.linkedin.com/in/kimnamsun-740464214">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
