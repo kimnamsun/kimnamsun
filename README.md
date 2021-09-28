@@ -6,7 +6,7 @@
 </p>
 <br>
 <p align='center'>
-    
+
 <!--  <br>
   <img src="https://img.shields.io/badge/-JavaScript(ES6%2B)-EFD81D"/> <img src="https://img.shields.io/badge/-TypeScript-3074C0"/> <img src="https://img.shields.io/badge/-React-3CAEA3"/> <br> 
     <img src="https://img.shields.io/badge/-HTML/CSS-E44D26"/> <img src="https://img.shields.io/badge/-SASS-ff69b4" /> <img src="https://img.shields.io/badge/-Styled Component-D76EC1" /> <br>
@@ -31,4 +31,5 @@
      <a href="mailto:kimnsunnie@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
-</p>
+<div  align='center'>
+</div>
