@@ -25,7 +25,7 @@
      <a href="https://www.linkedin.com/in/kimnamsun-740464214">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
   </a>
-   <a href="https://nine-lock-473.notion.site/FrontEnd-Developer-2939767d9bc94e60a968f4108d52aa49">
+   <a href="https://aboard-cart-3d4.notion.site/FrontEnd-Developer-7287df51d17e4a8a9ba7bd8409fbe727">
     <img src="https://img.shields.io/badge/Resume-6E519D?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
      <a href="mailto:kimnsunnie@gmail.com">
