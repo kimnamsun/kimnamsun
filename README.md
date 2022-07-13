@@ -18,7 +18,7 @@
 <br>
 <hr> -->
 <br>
-<p align='center'>
+<!-- <p align='center'>
   <a href="http://kimnamsun.github.io/">
     <img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   </a>
@@ -33,3 +33,4 @@
   </a>
 <div  align='center'>
 </div>
+-->
