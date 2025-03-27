@@ -1,36 +1,18 @@
-![header](<https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=kimnamsun();&fontSize=90>)
-<br>
-
-<p align='center'>
-👩🏻‍💻 Frontend Developer
+<h1 style="margin-bottom: 8px; word-break: break-word; font-size: 1.5rem; font-weight: bold; color: #1f2937;">
+  👩🏻‍💻 Frontend Engineer
+</h1>
+<p style="margin-bottom: 16px; word-break: break-word; font-size: 1.125rem; color: #4b5563;">
+  김남선
 </p>
-<br>
-<p align='center'>
 
-<!--  <br>
-  <img src="https://img.shields.io/badge/-JavaScript(ES6%2B)-EFD81D"/> <img src="https://img.shields.io/badge/-TypeScript-3074C0"/> <img src="https://img.shields.io/badge/-React-3CAEA3"/> <br> 
-    <img src="https://img.shields.io/badge/-HTML/CSS-E44D26"/> <img src="https://img.shields.io/badge/-SASS-ff69b4" /> <img src="https://img.shields.io/badge/-Styled Component-D76EC1" /> <br>
-    <img src="https://img.shields.io/badge/-JAVA-red" /> <img src="https://img.shields.io/badge/-Spring-yellowgreen" /> <img src="https://img.shields.io/badge/-Ruby on Rails-AB1201" /> 
-    <br>
-     <img src="https://img.shields.io/badge/-Oracle-327da8"/> <img src="https://img.shields.io/badge/-MySql-006F8C"/> 
-    <img src="https://img.shields.io/badge/-Git-black"/>
-</p>
-<br>
-<hr> -->
-<br>
-<!-- <p align='center'>
-  <a href="http://kimnamsun.github.io/">
-    <img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  </a>
-     <a href="https://www.linkedin.com/in/kimnamsun-740464214">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
-  </a>
-   <a href="https://aboard-cart-3d4.notion.site/FrontEnd-Developer-7287df51d17e4a8a9ba7bd8409fbe727">
-    <img src="https://img.shields.io/badge/Resume-6E519D?style=flat-square&logo=Notion&logoColor=white"/>
-  </a>
-     <a href="mailto:kimnsunnie@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
-<div  align='center'>
+<div style="margin-bottom: 24px; gap: 8px; color: #4b5563; display: flex; flex-direction: column;">
+  <p style="word-break: break-word; font-size: 0.875rem;">
+    <a href="mailto:kimnsunnie@gmail.com" style="color: #3b82f6; text-decoration: none;">kimnsunnie@gmail.com</a>
+  </p>
+  <p style="word-break: break-word; font-size: 0.875rem;">
+    <a href="https://github.com/kimnamsun" style="color: #3b82f6; text-decoration: none;">Github</a>
+  </p>
+  <p style="word-break: break-word; font-size: 0.875rem;">
+    <a href="https://nlog-ten.vercel.app/article" style="color: #3b82f6; text-decoration: none;">Blog</a>
+  </p>
 </div>
--->
